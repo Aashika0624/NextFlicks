@@ -1,0 +1,18 @@
+export const genresList = {
+  10765: { genre: 'Sci-Fi & Fantasy', colour: '#1d4ed8' },
+  10759: { genre: 'Action & Adventure', colour: '#06b6d4' },
+  16: { genre: 'Animation', colour: '#ca8a04' },
+  35: { genre: 'Comedy', colour: '#ea580c' },
+  80: { genre: 'Crime', colour: '#ee5b80' },
+  99: { genre: 'Documentary', colour: 'rgb(103, 120, 73)' },
+  18: { genre: 'Drama', colour: '#ca8a04' },
+  10751: { genre: 'Family', colour: '#ea580c' },
+  10762: { genre: 'Kids', colour: '#ca8a04' },
+  9648: { genre: 'Mystery', colour: '#dc2626' },
+  10763: { genre: 'News', colour: '#9b8ddd' },
+  10764: { genre: 'Reality', colour: '#ee5b80' },
+  10766: { genre: 'Soap', colour: '#9b8ddd' },
+  10767: { genre: 'Talk', colour: '#9b8ddd' },
+  10768: { genre: 'War & Politics', colour: '#9b8ddd' },
+  37: { genre: 'Western', colour: '#8ec15b' },
+};
